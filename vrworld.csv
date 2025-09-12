@@ -1,0 +1,401 @@
+world_id,world_name,creator_name,category,sub_category,tags,avg_session_minutes,rating,total_ratings,likes,max_players,current_players,maturity_rating,is_featured
+W6269394,Crystal World6404,ShadowHero9522,Gaming,Popular,"art,scary,immersive",40.0,1.5,4511,2318,50,49,E10+,false
+W4359239,Meta Hub5017,HyperWizard3352,Gaming,Popular,"scary,social,story-driven",29.3,2.4,2623,18151,8,19,E,false
+W8117209,Galactic Galaxy8672,MysticMaster8057,Sports & Fitness,Featured,"educational,story-driven,realistic",106.6,2.2,4299,31464,100,43,E,false
+W1073259,The Oasis9027,HyperWizard3654,Gaming,Featured,"story-driven,singleplayer,creative",73.0,3.9,7986,45684,16,49,E,false
+W2531819,Dream Kingdom8468,CoolHero8041,Gaming,New,"multiplayer,meditation,competitive",37.1,3.2,228,11087,16,39,E,true
+W1021517,Dream Kingdom5564,CyberGamer51,Education,Classic,"scary,fantasy,art",39.4,4.0,2459,43115,32,49,E10+,false
+W9096636,Dream Hub4124,WildDragon1647,Gaming,New,"funny,competitive,minimalist",9.1,3.3,4568,15497,4,10,M,true
+W7626285,Neon Arena5683,WildHero2877,Education,Classic,"casual,sandbox,creative",50.4,3.5,4253,23491,50,46,M,false
+W9843326,Neon World63,ShadowHero2705,Comedy,Featured,"funny,sci-fi,story-driven",27.7,2.3,220,22849,16,6,E10+,false
+W6159583,Quantum Oasis8531,HyperMaster9048,Puzzle,Featured,"casual,singleplayer,meditation",117.2,3.7,7036,17994,4,37,E,true
+W6827507,Virtual Arena3666,EpicMaster6924,Sports & Fitness,Popular,"creative,singleplayer,multiplayer",32.8,4.6,5333,14179,50,1,M,true
+W1923286,Neon Oasis674,CyberNinja7074,Music & Dance,Featured,"creative,sandbox,educational",59.1,2.1,8675,13520,8,7,M,true
+W2624635,Galactic Kingdom1048,CoolDragon5037,Puzzle,Featured,"retro,funny,immersive",115.3,1.1,3318,13648,50,27,E10+,true
+W5506717,Galactic Realm6582,HyperWizard3654,Education,Popular,"sci-fi,multiplayer,educational",61.8,4.1,689,21322,4,7,E,false
+W1996384,Meta Oasis3428,HyperWizard3654,Gaming,Classic,"story-driven,social,singleplayer",93.2,4.5,9925,10017,100,44,E,false
+W6702744,Dream Arena4201,CyberGamer3491,Adventure,Popular,"social,fitness,realistic",29.6,2.5,9167,45152,32,22,E10+,true
+W7162015,Dream Galaxy4221,NeonPlayer8259,Social,Popular,"immersive,story-driven,singleplayer",48.1,3.5,3851,29093,4,38,T,false
+W9829304,Virtual Oasis2640,HyperExplorer4552,Music & Dance,Featured,"music,realistic,fantasy",74.7,2.2,21,25304,32,23,E,true
+W1991027,Galactic Hub2821,HyperWizard3654,Fantasy,New,"sandbox,immersive,minimalist",92.7,2.5,4329,871,100,13,T,false
+W8637279,Crystal World7108,CyberGamer3491,Adventure,Classic,"sandbox,singleplayer,sci-fi",100.9,3.8,7854,29812,8,20,M,false
+W9656820,Mystic Kingdom5427,HyperWizard3352,Art & Creative,Classic,"multiplayer,story-driven,art",111.3,1.6,3494,38184,8,21,E,false
+W4127653,The Realm1991,EpicNinja2041,Adventure,Featured,"fantasy,casual,realistic",102.8,1.6,1592,42410,16,3,M,true
+W7229416,Crystal Galaxy1508,EpicPlayer9201,Comedy,New,"story-driven,music,multiplayer",92.1,3.4,8150,47255,32,38,M,false
+W3498353,Virtual Realm5663,WildMaster7894,Comedy,Popular,"sandbox,funny,sandbox",116.1,4.0,2953,16505,32,39,E10+,true
+W2364101,Quantum Hub3007,WildDragon1647,Roleplay,Featured,"realistic,fantasy,story-driven",56.6,1.6,4285,14001,16,44,M,true
+W7097208,The Arena3601,ShadowWizard469,Puzzle,Classic,"realistic,funny,art",18.1,1.1,417,16746,4,20,E10+,true
+W7750013,Neon Island1106,HyperExplorer4552,Sports & Fitness,Featured,"realistic,retro,singleplayer",66.0,3.0,5458,39976,32,23,E,false
+W4483577,Mystic Island6612,WildPlayer2896,Roleplay,New,"art,multiplayer,realistic",72.9,1.2,4142,6392,4,33,E10+,false
+W7770503,Dream Island1801,HyperWizard3654,Gaming,Classic,"sci-fi,story-driven,story-driven",83.0,3.5,8685,231,50,40,T,false
+W6557049,The World6137,CoolMaster2736,Strategy,Featured,"casual,singleplayer,immersive",77.4,2.4,1353,8749,16,2,E,false
+W2694822,Neon Island13,ShadowWizard1190,Horror,Featured,"scary,creative,multiplayer",104.5,1.9,4226,19306,8,31,E10+,false
+W4550927,Neon Kingdom1189,EpicDragon1067,Horror,Classic,"sandbox,educational,competitive",119.0,3.9,6970,3075,8,29,M,false
+W3830269,Neon Dungeon5631,ShadowWizard1190,Sci-Fi,New,"funny,fantasy,multiplayer",98.4,3.6,8528,16095,50,16,E10+,true
+W1521483,Neon Realm6025,CoolWizard3998,Comedy,Featured,"realistic,fitness,sci-fi",74.5,3.7,7259,44071,4,38,E,true
+W6393821,Quantum Arena9239,NeonExplorer5184,Gaming,New,"music,multiplayer,educational",107.6,4.0,2697,32334,100,22,E,false
+W1297789,Neon Dungeon2830,HyperWizard3654,Gaming,New,"music,meditation,social",67.6,4.7,7207,23329,50,47,M,true
+W6682478,The Island7069,ShadowExplorer6040,Horror,Classic,"social,music,scary",108.5,4.9,8375,15579,8,35,E,false
+W8425311,The World4901,EpicMaster5084,Roleplay,Featured,"realistic,competitive,sandbox",66.0,4.4,6572,48905,100,11,T,true
+W4184767,Mystic Hub548,CyberGamer51,Adventure,Classic,"story-driven,art,singleplayer",67.5,2.0,6764,2025,4,15,M,false
+W5556620,Meta Dungeon4553,CyberGamer51,Education,Featured,"multiplayer,fitness,scary",112.5,3.6,749,9495,32,1,E,false
+W8048394,Crystal World6303,EpicNinja2041,Puzzle,Classic,"competitive,multiplayer,sandbox",105.4,2.4,1428,37477,32,45,M,false
+W6645368,Galactic Arena9294,WildMaster2575,Art & Creative,New,"educational,competitive,multiplayer",100.1,3.9,6720,33606,50,12,T,true
+W9149886,Meta Arena3667,CoolDragon6934,Horror,Featured,"retro,multiplayer,sandbox",41.7,4.9,8414,25714,8,18,E,true
+W6305338,Crystal Arena3331,HyperExplorer2482,Adventure,Popular,"art,art,music",12.5,1.7,5563,4430,16,4,E,true
+W4307801,Galactic Galaxy8697,EpicNinja2041,Music & Dance,Featured,"fitness,creative,story-driven",87.6,3.5,4008,33013,4,42,T,true
+W6865929,Virtual Island5127,NeonCreator3586,Gaming,Popular,"competitive,casual,multiplayer",18.5,3.3,5906,240,100,31,E10+,false
+W4799733,Mystic Kingdom5768,DarkWizard4485,Puzzle,Classic,"casual,story-driven,story-driven",38.8,3.4,7463,6988,16,13,E,false
+W1692102,The World827,WildHero2877,Roleplay,Popular,"sandbox,immersive,minimalist",14.0,3.1,445,35416,32,40,E10+,false
+W9889841,Dream Galaxy3134,CyberGamer3491,Fantasy,Featured,"casual,story-driven,sandbox",56.9,3.5,4394,43861,16,37,T,false
+W6928351,Quantum Kingdom6059,NeonNinja6502,Puzzle,Popular,"funny,art,sci-fi",61.5,2.6,8595,48381,8,50,T,false
+W7363574,Dream Oasis8575,HyperNinja2159,Sci-Fi,Popular,"funny,social,story-driven",113.5,1.6,2341,29929,32,46,T,true
+W5241438,Virtual Arena5592,HyperMaster9809,Social,Popular,"retro,singleplayer,casual",86.6,3.6,3746,20255,50,13,E10+,false
+W1899058,Meta Oasis693,DarkMaster5756,Comedy,Popular,"singleplayer,multiplayer,fitness",62.1,4.6,3386,838,16,40,M,false
+W7667894,Quantum Realm9862,WildNinja7048,Education,Popular,"singleplayer,immersive,creative",87.5,4.9,8016,27708,8,40,T,true
+W5200478,Quantum Kingdom2910,CyberGamer3491,Roleplay,Featured,"fitness,music,singleplayer",18.9,3.7,4704,26635,32,31,T,false
+W4025959,Mystic Hub1937,CyberNinja3095,Sports & Fitness,Featured,"retro,minimalist,meditation",13.6,4.2,9917,5204,8,14,M,false
+W5041373,The Arena6758,NeonDragon849,Puzzle,Popular,"realistic,competitive,story-driven",7.8,2.4,1267,24077,32,11,T,false
+W3671413,Crystal World6366,EpicNinja6641,Social,Classic,"funny,retro,meditation",75.1,4.8,3956,11932,100,33,E10+,true
+W4624749,Virtual Island5632,HyperWizard3654,Fantasy,Featured,"singleplayer,story-driven,sandbox",95.0,1.8,4676,49679,4,38,T,false
+W8883655,Meta Realm75,WildMaster2575,Music & Dance,Featured,"competitive,competitive,funny",105.1,1.4,5342,18396,16,39,E,true
+W9691058,The World6860,HyperNinja2159,Social,Popular,"story-driven,competitive,sci-fi",5.4,3.5,7800,22480,16,18,M,false
+W5623148,Dream Dungeon2571,WildPlayer2896,Social,Popular,"competitive,fitness,multiplayer",85.3,4.8,4091,5364,100,31,E10+,false
+W8663782,Quantum Hub9514,NeonNinja9214,Gaming,Featured,"singleplayer,funny,art",8.5,1.4,3114,33749,32,32,M,false
+W2250301,Crystal Arena2498,ShadowHero9928,Relaxation,Popular,"sci-fi,social,immersive",29.0,1.3,8437,1242,32,33,E,true
+W3093844,Galactic Kingdom3794,CoolHero8041,Music & Dance,Popular,"singleplayer,fantasy,educational",59.6,2.8,5148,70,32,4,M,true
+W9757752,Neon Island2742,HyperMaster9048,Horror,Classic,"minimalist,retro,art",67.1,3.4,3718,49801,32,48,M,false
+W2404722,Dream Dungeon7521,DarkWizard4485,Gaming,Popular,"sandbox,sci-fi,singleplayer",85.8,2.2,7312,43120,100,45,T,false
+W8854865,Meta Realm7494,HyperHero8488,Fantasy,New,"sandbox,competitive,fitness",28.9,3.0,4424,1506,100,49,T,false
+W1533737,Virtual Island1345,CoolDragon6934,Roleplay,Featured,"creative,creative,meditation",33.5,3.3,3757,24032,16,37,E10+,true
+W5085972,Crystal Hub1328,ShadowHero9928,Gaming,Featured,"music,competitive,social",43.9,4.9,6928,26540,4,36,E,true
+W4436957,Crystal Kingdom6781,CyberMaster8389,Relaxation,Classic,"immersive,sci-fi,educational",93.3,4.6,7889,26385,100,21,E10+,false
+W2393140,Mystic Galaxy8110,WildPlayer2896,Education,Featured,"minimalist,social,scary",69.5,1.8,9380,42924,8,34,E10+,true
+W9640652,Neon Island1529,EpicMaster5084,Sci-Fi,Popular,"sandbox,fantasy,minimalist",30.0,1.7,817,28020,100,29,E,false
+W5428292,Crystal Kingdom8752,HyperNinja2159,Strategy,Featured,"story-driven,story-driven,music",56.2,3.4,5777,6831,8,37,M,false
+W5622487,Quantum Arena3089,ShadowWizard469,Simulation,Featured,"sandbox,multiplayer,casual",64.4,2.9,5158,27042,4,22,E10+,true
+W8369116,Mystic Oasis7198,NeonNinja9214,Roleplay,New,"competitive,fantasy,retro",86.3,2.6,7794,20719,16,4,E,false
+W6264740,Neon Arena9424,ShadowNinja3469,Simulation,Featured,"story-driven,story-driven,multiplayer",41.2,1.9,1424,12296,16,39,E,false
+W5351811,Neon Hub1945,NeonNinja9214,Art & Creative,Popular,"funny,fitness,fantasy",57.4,1.3,8194,45650,8,32,M,false
+W8329174,Virtual Arena5425,NeonNinja9214,Roleplay,Popular,"funny,story-driven,realistic",91.3,1.1,2006,31818,100,30,E,false
+W8553541,Neon Galaxy297,EpicDragon1067,Puzzle,New,"minimalist,story-driven,social",84.4,3.0,5583,34177,8,27,E,false
+W1276847,Neon World9432,CoolMaster2736,Social,Popular,"multiplayer,minimalist,minimalist",42.9,4.5,1305,17519,32,12,E10+,true
+W5368402,Quantum World574,CyberGamer51,Art & Creative,Popular,"sandbox,multiplayer,educational",47.4,4.9,8582,21176,16,22,E10+,false
+W1272373,Quantum Oasis1294,EpicMaster6924,Simulation,Classic,"art,singleplayer,music",75.0,4.0,4135,44659,8,21,E10+,false
+W3702737,Mystic Island4418,CoolMaster2736,Comedy,Classic,"art,realistic,multiplayer",36.8,2.8,8738,439,4,30,E,true
+W3545187,Mystic Oasis7546,DarkMaster5756,Music & Dance,New,"story-driven,multiplayer,competitive",22.7,4.0,132,14673,50,9,E10+,false
+W3185987,Crystal World6497,HyperHero8488,Social,Featured,"multiplayer,multiplayer,social",36.0,3.0,1552,47160,32,47,M,false
+W8159444,Meta Hub569,WildMaster2575,Social,Classic,"multiplayer,fitness,sandbox",35.5,1.1,2433,14301,8,42,E10+,false
+W5716940,Mystic Hub1413,ShadowNinja2823,Education,Featured,"minimalist,fitness,music",51.3,3.3,811,41734,100,4,T,true
+W6843351,Meta Galaxy2927,HyperMaster9809,Gaming,New,"minimalist,retro,social",107.9,2.8,2142,26985,100,12,E,true
+W8616475,Dream Dungeon1998,EpicMaster6924,Music & Dance,Featured,"story-driven,minimalist,competitive",64.3,4.5,1696,45308,8,28,E10+,true
+W2338543,Virtual Oasis8628,WildNinja1459,Education,Classic,"multiplayer,art,multiplayer",44.3,2.1,1325,42602,16,34,E,false
+W4384074,Virtual Arena6152,ShadowWizard469,Social,New,"multiplayer,educational,fitness",85.6,3.2,5436,11781,100,29,M,true
+W6688020,Virtual Galaxy8277,EpicPlayer9201,Gaming,Classic,"competitive,meditation,multiplayer",91.7,4.5,6012,34789,16,34,E10+,true
+W2924583,Quantum Kingdom3231,EpicNinja2041,Education,Popular,"story-driven,fantasy,singleplayer",94.1,1.8,9371,37213,50,37,T,false
+W6084250,Meta Oasis6518,MysticExplorer8623,Sports & Fitness,Popular,"minimalist,immersive,singleplayer",44.6,2.3,514,28753,50,33,E10+,true
+W6238252,Virtual Dungeon2654,MysticMaster8057,Gaming,Featured,"story-driven,immersive,meditation",66.4,2.0,558,43099,8,12,E,true
+W4463529,Meta World2819,ShadowWizard469,Sports & Fitness,New,"creative,creative,sandbox",90.9,3.5,3019,19772,16,17,E,true
+W3246817,Meta Island9118,EpicDragon1067,Gaming,Featured,"story-driven,minimalist,retro",7.3,3.6,523,31337,50,19,E10+,false
+W9578485,Quantum Realm732,CyberMaster8389,Adventure,New,"competitive,sci-fi,singleplayer",93.8,2.2,6071,20709,32,10,E,false
+W5025864,Neon Dungeon5104,HyperMaster9048,Comedy,New,"competitive,fantasy,sandbox",76.9,3.9,2811,37644,4,10,M,false
+W9381837,Dream World4368,CyberGamer9930,Gaming,New,"immersive,singleplayer,multiplayer",11.8,2.0,3248,31002,32,39,T,true
+W4586140,Neon Dungeon8821,NeonNinja9214,Comedy,Featured,"multiplayer,story-driven,fantasy",115.8,3.0,6756,8603,4,8,M,false
+W6945841,Dream Realm1418,ShadowHero9928,Music & Dance,New,"educational,fitness,funny",14.4,2.5,9382,10387,8,27,E10+,false
+W1619711,Meta World845,HyperNinja2159,Music & Dance,Classic,"competitive,minimalist,minimalist",75.6,2.0,6860,13464,16,2,E,true
+W5333932,Mystic Island2387,CoolHero8041,Education,Featured,"social,minimalist,minimalist",16.1,4.8,4883,49424,16,45,E10+,true
+W6062689,Mystic Realm699,WildMaster2575,Relaxation,Classic,"art,story-driven,sandbox",13.8,2.7,3669,13984,8,17,M,false
+W5580462,Meta Realm189,CyberWizard3617,Art & Creative,Classic,"educational,singleplayer,sci-fi",1.6,3.2,945,43176,4,47,M,false
+W2319067,Galactic Oasis1974,NeonPlayer8259,Roleplay,Classic,"art,creative,realistic",110.9,4.5,983,17158,100,13,E,true
+W1239392,The Dungeon6173,CoolDragon5037,Fantasy,Featured,"sci-fi,educational,story-driven",97.4,4.7,3330,7203,50,0,T,true
+W1366955,Meta Galaxy5253,EpicMaster6924,Art & Creative,Popular,"singleplayer,multiplayer,casual",100.2,4.1,4929,30665,4,15,E10+,false
+W9538657,Crystal Realm6873,NeonNinja9214,Gaming,Featured,"story-driven,casual,sci-fi",1.3,4.3,8469,12693,4,30,T,true
+W6737230,Galactic Kingdom8226,ShadowWizard469,Gaming,Popular,"educational,multiplayer,creative",31.9,4.8,424,45712,50,11,M,false
+W2686010,Neon Galaxy5918,EpicMaster5084,Music & Dance,Featured,"fantasy,scary,sci-fi",82.2,2.5,5879,29723,100,35,M,true
+W1909389,Crystal Oasis1533,HyperHero2663,Music & Dance,Featured,"funny,story-driven,immersive",76.2,4.7,2001,5232,100,47,M,false
+W3659608,Meta Kingdom7751,NeonNinja9214,Music & Dance,New,"funny,multiplayer,singleplayer",57.6,3.9,9989,26550,100,32,E,false
+W3658310,Meta Kingdom8000,ShadowHero9522,Sports & Fitness,Classic,"retro,sandbox,immersive",44.2,2.9,3399,28833,100,13,M,true
+W6067633,Mystic Galaxy5401,WildHero2877,Gaming,Featured,"meditation,sandbox,multiplayer",24.0,4.3,5973,31218,100,33,T,true
+W1245681,Crystal Oasis3599,NeonCreator3586,Adventure,Popular,"art,educational,fitness",48.9,1.6,2369,49295,16,24,M,false
+W3898704,The Galaxy6205,CyberGamer51,Music & Dance,Popular,"fantasy,retro,funny",15.6,3.0,4961,47571,4,10,E10+,false
+W2177822,Meta Galaxy3979,CyberWizard6520,Simulation,New,"educational,competitive,social",30.1,3.5,2200,25204,32,24,E10+,false
+W1308881,Meta World4915,CoolMaster2736,Simulation,Classic,"multiplayer,sandbox,music",18.6,1.6,8957,3143,16,38,E,false
+W1403731,Virtual Kingdom4356,HyperNinja4460,Gaming,Popular,"singleplayer,competitive,competitive",82.7,2.5,8248,7102,32,47,M,false
+W1543027,Dream World9356,CoolWizard3998,Social,Popular,"multiplayer,multiplayer,competitive",75.0,2.7,1175,4403,50,28,E,true
+W1463726,Virtual Hub4431,ShadowWizard1190,Gaming,Featured,"sandbox,educational,competitive",73.5,2.6,4099,24473,50,26,E10+,true
+W6241286,Quantum Kingdom3459,HyperExplorer4552,Music & Dance,Featured,"sandbox,sandbox,singleplayer",82.7,3.3,7205,7157,16,49,E10+,true
+W2934967,The Oasis8532,CoolWizard4818,Sci-Fi,Featured,"music,multiplayer,multiplayer",31.9,1.4,2157,20210,16,43,E,true
+W7124312,Crystal Kingdom5258,EpicMaster5084,Strategy,Classic,"minimalist,multiplayer,fitness",32.8,3.3,4484,38382,50,25,E,true
+W9515241,Neon Hub815,CyberGamer51,Gaming,Classic,"creative,competitive,sandbox",56.9,2.6,4477,3301,8,12,M,false
+W3432109,Mystic Kingdom2574,CoolWizard4818,Adventure,New,"immersive,educational,multiplayer",80.1,2.7,4737,34533,16,38,T,false
+W9941777,Virtual Realm1796,MysticMaster8057,Roleplay,Featured,"realistic,immersive,competitive",58.9,2.3,6325,1739,16,50,E,false
+W1787916,Neon Island4963,CoolMaster2736,Music & Dance,Classic,"fitness,art,competitive",74.3,2.2,296,29103,50,22,E10+,false
+W2441453,Virtual Island6786,HyperExplorer2482,Music & Dance,Featured,"story-driven,competitive,sandbox",23.2,2.2,3254,1993,4,9,T,false
+W8218324,Mystic Kingdom85,NeonExplorer5184,Gaming,New,"fantasy,fantasy,multiplayer",61.2,3.6,3366,14483,100,23,E,false
+W2387656,Virtual Galaxy8941,NeonPlayer8259,Social,Classic,"sci-fi,meditation,retro",113.3,4.1,748,29702,4,12,E,true
+W4405097,Mystic World4945,NeonExplorer5184,Gaming,Popular,"creative,singleplayer,fitness",103.7,1.6,5,13908,50,6,T,false
+W3068007,Mystic Arena8523,WildMaster2575,Social,Popular,"realistic,casual,meditation",61.5,4.3,5361,3348,50,33,E,true
+W2218834,Mystic Oasis2264,HyperWizard3654,Education,New,"fantasy,competitive,realistic",88.1,4.6,1764,42481,32,9,M,true
+W3884069,The Galaxy3019,ShadowHero9522,Art & Creative,Featured,"art,immersive,multiplayer",56.3,4.0,2990,22511,32,25,E,true
+W3982904,Dream Realm8087,HyperWizard3352,Horror,Classic,"story-driven,music,educational",42.0,2.4,8731,27663,32,21,M,false
+W7455094,The Dungeon7842,MysticMaster8057,Relaxation,Featured,"retro,minimalist,sandbox",84.0,3.7,2948,16844,8,23,E10+,true
+W4950514,Meta Island9081,HyperHero2663,Music & Dance,Popular,"meditation,minimalist,social",36.2,2.6,6048,34825,16,42,T,false
+W9616122,Galactic Dungeon2549,ShadowNinja2823,Sports & Fitness,New,"singleplayer,art,competitive",10.1,3.8,4497,18433,4,4,E10+,true
+W8149452,Virtual Arena315,CyberNinja7074,Adventure,Classic,"casual,sandbox,casual",17.7,1.8,5664,48249,50,39,E,false
+W5343569,The Arena9532,CyberMaster8389,Fantasy,Classic,"art,meditation,story-driven",35.7,4.5,9011,14119,32,34,E,false
+W6789069,The Dungeon2595,HyperHero2663,Gaming,New,"casual,minimalist,competitive",53.7,1.6,697,25500,100,32,E10+,false
+W5677425,Mystic Realm9637,HyperMaster9809,Social,Popular,"music,fitness,educational",49.6,2.3,7434,21222,8,22,E,true
+W2942352,Crystal Realm4717,HyperMaster9048,Gaming,Popular,"singleplayer,fitness,casual",51.6,2.4,1382,40526,16,27,E10+,true
+W3344771,Mystic Island7384,WildDragon1647,Gaming,Classic,"retro,art,educational",42.3,1.4,8277,23457,16,3,E10+,false
+W7934431,Dream Dungeon977,EpicPlayer9201,Sci-Fi,New,"competitive,casual,sci-fi",38.7,2.9,7548,32913,50,26,M,true
+W8906626,Galactic Galaxy3717,HyperNinja4460,Strategy,Featured,"scary,multiplayer,creative",40.0,2.9,1734,19136,32,43,E10+,false
+W2695115,Neon Oasis4298,CyberNinja7074,Education,Classic,"casual,sci-fi,fitness",45.8,1.1,3070,31141,100,47,E,false
+W9503055,The Dungeon3163,ShadowExplorer6040,Music & Dance,Popular,"funny,funny,art",108.1,3.8,6912,23765,16,47,E,true
+W8642845,Mystic Oasis2482,ShadowNinja3469,Music & Dance,Popular,"sci-fi,singleplayer,competitive",28.2,4.4,8170,5135,16,48,E,true
+W8626262,Virtual Dungeon7575,CoolWizard3998,Comedy,New,"minimalist,competitive,competitive",118.7,2.8,5077,24780,100,34,M,true
+W5872098,Virtual World7513,CoolWizard4818,Roleplay,Popular,"educational,scary,immersive",78.2,4.9,8489,37973,32,14,E10+,true
+W5766212,Mystic Hub8429,HyperWizard3654,Comedy,New,"immersive,minimalist,realistic",98.8,1.4,5123,6005,8,34,E,false
+W4457745,Crystal Kingdom6465,ShadowHero9522,Adventure,Popular,"social,art,realistic",26.1,3.3,693,15467,50,23,M,false
+W8050396,Crystal Galaxy5725,NeonCreator3586,Gaming,Popular,"sandbox,sci-fi,music",12.9,4.3,9562,18287,100,29,E10+,true
+W8362886,Galactic Hub1213,CyberMaster8389,Simulation,Featured,"social,realistic,minimalist",103.8,3.8,3217,34238,50,23,T,false
+W4038874,Dream Dungeon9167,NeonNinja9214,Sports & Fitness,New,"singleplayer,singleplayer,retro",76.8,1.7,5429,6717,100,31,M,false
+W2781934,Crystal Realm7642,NeonCreator3586,Social,Popular,"competitive,multiplayer,competitive",88.6,2.7,2618,45157,32,34,T,false
+W8327119,Dream Oasis4062,DarkWizard4485,Music & Dance,Popular,"retro,meditation,realistic",22.3,3.6,9686,2238,8,47,E,true
+W4630605,Virtual Oasis9715,EpicDragon1067,Fantasy,New,"story-driven,music,singleplayer",116.6,2.9,4460,47474,4,38,M,false
+W7059334,Dream Galaxy1777,ShadowNinja3469,Adventure,Classic,"multiplayer,story-driven,music",73.7,1.1,8538,8102,8,5,M,true
+W9495419,Virtual Oasis5297,CoolDragon5037,Gaming,Featured,"music,music,meditation",103.0,1.7,9483,28430,100,9,M,false
+W5759825,Crystal Realm3222,HyperWizard3352,Comedy,Popular,"fantasy,immersive,multiplayer",64.9,4.5,8158,40776,16,32,T,true
+W8035408,Galactic Realm2745,CyberNinja7074,Education,New,"sandbox,sandbox,music",31.8,1.2,6621,12888,16,35,E,true
+W2373456,Mystic Kingdom1724,DarkWizard4485,Social,New,"competitive,story-driven,meditation",118.3,4.1,8862,47586,50,0,E10+,false
+W3103881,The Galaxy866,NeonNinja6502,Relaxation,Classic,"singleplayer,music,creative",63.6,3.4,4081,38091,16,17,E10+,false
+W1223711,Crystal Dungeon7555,CoolHero8041,Music & Dance,Classic,"multiplayer,sandbox,immersive",21.7,2.9,1533,11577,4,31,E10+,true
+W4130487,Neon World4365,HyperMaster9809,Relaxation,Classic,"social,fitness,sandbox",45.1,3.8,816,17888,16,35,E10+,true
+W4326037,Neon Kingdom4146,EpicDragon1067,Social,Featured,"casual,art,sandbox",84.2,4.5,1216,13585,50,1,M,false
+W8741627,Virtual Dungeon1881,ShadowHero9522,Education,Featured,"sci-fi,music,story-driven",43.6,2.4,7535,14623,8,19,E,false
+W6280176,Galactic Arena8823,CoolWizard4818,Social,New,"immersive,sandbox,scary",110.0,3.8,2573,34202,100,21,E10+,true
+W6658229,Galactic Island7335,NeonExplorer5184,Sports & Fitness,Popular,"social,fantasy,story-driven",39.6,4.4,2193,36547,32,43,M,false
+W6198189,Meta Galaxy9547,WildNinja7048,Education,Popular,"social,singleplayer,sandbox",89.4,1.6,8736,24056,8,39,T,false
+W7726547,Galactic World2414,NeonHero2054,Music & Dance,Featured,"meditation,retro,minimalist",70.6,4.6,8721,39892,16,27,T,true
+W2409565,Mystic Hub3111,ShadowWizard469,Social,New,"story-driven,retro,immersive",55.6,3.8,7361,11876,100,19,E,true
+W8331650,The Oasis5585,HyperNinja2159,Relaxation,Classic,"meditation,music,creative",114.3,4.7,1733,29764,8,31,E,true
+W4851264,Mystic Hub7137,CyberWizard3617,Comedy,Classic,"sandbox,story-driven,fitness",46.4,1.1,8168,11725,4,19,E10+,true
+W4308960,Virtual Hub6088,EpicDragon1067,Music & Dance,Popular,"fantasy,multiplayer,educational",92.5,4.1,2245,43254,32,22,T,true
+W4480321,Neon Dungeon8127,HyperNinja4460,Comedy,Classic,"story-driven,meditation,retro",36.4,1.4,8200,21700,50,42,E,false
+W4468678,Mystic Oasis2179,HyperExplorer2482,Relaxation,Featured,"sci-fi,sandbox,sci-fi",67.1,4.6,3913,45135,32,36,M,false
+W2420702,Dream Dungeon8544,NeonDragon849,Social,Popular,"multiplayer,fitness,meditation",110.6,1.2,1414,33150,4,50,E10+,false
+W5718385,Crystal Kingdom73,CyberWizard3617,Social,New,"fitness,sandbox,sandbox",22.4,3.6,4457,39464,50,46,M,false
+W8007540,Dream Dungeon4805,HyperWizard3352,Comedy,Featured,"competitive,singleplayer,immersive",16.6,3.7,5281,33306,8,23,E10+,true
+W9270586,Galactic Hub3708,CyberWizard3617,Music & Dance,Featured,"retro,immersive,minimalist",42.1,1.3,2071,1328,4,1,E,false
+W3360001,Crystal Oasis5960,EpicPlayer9201,Education,Classic,"funny,multiplayer,realistic",83.1,1.8,1641,38108,32,21,M,true
+W6447423,Dream Hub3645,NeonNinja9214,Gaming,New,"multiplayer,music,singleplayer",59.8,2.0,2120,45125,32,16,E,true
+W9458512,Meta Kingdom1268,CyberWizard3617,Puzzle,Featured,"sandbox,multiplayer,fantasy",64.9,3.2,2983,12355,8,42,E,true
+W2781637,The Arena2893,WildNinja7048,Simulation,Popular,"fantasy,sandbox,scary",42.4,4.0,2416,15909,16,32,M,true
+W2729568,Dream Dungeon4374,CyberNinja3095,Fantasy,Popular,"competitive,fitness,realistic",76.5,2.8,7493,13316,4,42,E10+,false
+W8582599,Galactic Island5584,CoolWizard4818,Horror,Classic,"casual,story-driven,social",63.6,4.4,6155,5295,8,41,T,false
+W5376498,Virtual World3974,MysticMaster8057,Comedy,Classic,"casual,social,retro",40.1,1.6,7824,9208,8,40,E,false
+W8725743,Crystal Realm6511,HyperWizard3352,Music & Dance,Popular,"singleplayer,multiplayer,social",29.7,4.1,7535,11597,32,47,E,false
+W6320360,Galactic Dungeon8472,EpicMaster6924,Education,New,"retro,realistic,multiplayer",33.4,2.0,5586,693,8,16,T,false
+W8691674,Quantum Galaxy6763,HyperNinja4460,Social,Featured,"singleplayer,fitness,story-driven",87.4,3.9,9069,47191,100,47,M,true
+W7182024,Mystic Arena5980,HyperMaster9809,Social,Featured,"singleplayer,competitive,retro",21.5,3.9,6507,34791,8,33,M,false
+W1782731,Crystal Island2753,HyperMaster9809,Gaming,Classic,"sci-fi,competitive,casual",117.3,4.3,7646,1503,4,49,T,false
+W7755398,Crystal World7040,NeonHero8726,Education,New,"retro,funny,art",106.6,2.8,8444,12626,8,9,E10+,false
+W5770885,Quantum Hub6099,HyperWizard3654,Social,Featured,"minimalist,sandbox,funny",65.0,1.8,6191,9949,8,2,E,false
+W3756835,Dream Galaxy1816,ShadowNinja3469,Adventure,Classic,"creative,funny,music",3.2,2.7,6613,28896,8,22,T,true
+W8129976,Crystal Oasis7839,EpicPlayer9201,Strategy,Featured,"realistic,multiplayer,immersive",109.3,3.7,1065,32409,32,15,E,false
+W6751230,Neon Hub3611,EpicMaster6924,Gaming,Featured,"singleplayer,creative,singleplayer",79.5,3.4,1809,7319,8,15,E,false
+W6086797,Neon Realm3965,NeonCreator3586,Fantasy,Classic,"immersive,sci-fi,creative",30.4,4.1,6176,42831,32,32,E,false
+W8870643,Crystal Kingdom4632,HyperMaster9809,Education,Popular,"competitive,social,meditation",48.6,4.5,5628,42011,100,2,E10+,false
+W9156156,Mystic Dungeon1275,EpicPlayer9201,Sports & Fitness,Popular,"realistic,scary,art",25.6,4.0,5984,14207,4,23,E10+,true
+W2166364,Crystal Arena2575,HyperExplorer2482,Simulation,New,"funny,sci-fi,fitness",88.4,3.2,4964,38251,32,23,T,true
+W9498151,Quantum Hub8886,WildHero2877,Horror,Popular,"realistic,fantasy,singleplayer",96.5,3.3,4287,17072,8,31,E,false
+W5037846,Neon World4629,MysticMaster8057,Gaming,Classic,"casual,music,funny",78.5,2.8,2445,20398,50,17,E10+,false
+W6366013,Dream Galaxy547,HyperMaster9809,Adventure,Popular,"casual,multiplayer,competitive",42.6,1.6,5693,10983,50,17,E,true
+W2385837,Neon Hub1651,CoolWizard4818,Social,Popular,"fantasy,minimalist,sandbox",112.6,3.3,8488,1441,50,18,E10+,false
+W2132253,Quantum Oasis1575,ShadowExplorer6040,Education,New,"retro,immersive,funny",92.7,4.2,4953,35716,50,35,E10+,false
+W8160243,The Realm461,NeonPlayer8259,Social,New,"creative,funny,multiplayer",111.7,2.1,4626,46839,16,15,T,false
+W9123360,Meta Arena1707,MysticExplorer8623,Gaming,Featured,"immersive,singleplayer,retro",108.5,3.3,9563,19626,32,40,M,false
+W5283359,Mystic Realm6303,CoolWizard3998,Social,Classic,"immersive,story-driven,music",81.7,4.9,6554,336,50,18,T,false
+W7833518,Quantum Oasis2175,WildNinja1459,Education,New,"social,creative,singleplayer",62.9,3.8,3244,9824,50,50,E,true
+W3379858,Neon World5409,WildHero2877,Music & Dance,Featured,"story-driven,sci-fi,immersive",7.5,1.9,5958,45101,8,14,T,true
+W4691453,Galactic Island949,NeonNinja6502,Education,Popular,"multiplayer,meditation,sandbox",39.4,3.7,1155,34217,8,11,T,false
+W8958565,Virtual Kingdom4226,MysticCreator9233,Education,Classic,"casual,realistic,creative",89.4,3.3,4687,38412,50,47,T,false
+W9188520,Neon Oasis5673,NeonDragon849,Sci-Fi,Popular,"social,multiplayer,funny",15.7,2.5,5393,20865,50,50,E10+,false
+W6669362,Dream Dungeon4893,ShadowNinja3469,Roleplay,New,"meditation,competitive,competitive",49.0,1.2,3696,15302,4,4,T,true
+W4681325,Crystal Hub4162,CoolMaster2736,Education,New,"fitness,art,meditation",104.0,1.7,9006,18547,4,43,E,false
+W7660295,Mystic Kingdom7375,HyperWizard3654,Social,New,"social,sci-fi,multiplayer",58.6,4.0,2115,32148,16,35,M,false
+W6783844,Galactic Island1776,WildHero2877,Music & Dance,Classic,"retro,immersive,social",82.4,3.2,1617,12423,100,17,T,false
+W8927859,Crystal Island5544,EpicPlayer9201,Education,Popular,"meditation,retro,competitive",10.3,3.6,8193,36393,32,33,E10+,false
+W5955245,Meta Galaxy6406,EpicDragon1067,Roleplay,Classic,"art,competitive,multiplayer",97.9,3.4,2178,23929,100,36,E10+,false
+W4167188,Mystic Hub413,WildNinja7048,Horror,New,"story-driven,meditation,meditation",86.2,3.6,3035,31560,32,2,E10+,false
+W9754526,Virtual Island7674,NeonNinja6502,Social,Featured,"sci-fi,competitive,fitness",63.7,2.7,637,45953,50,35,E10+,false
+W8445628,Neon Dungeon9117,WildMaster2575,Social,Featured,"sandbox,story-driven,fitness",110.0,2.1,287,16533,50,9,T,false
+W2248689,Quantum Realm2991,EpicMaster6924,Music & Dance,Popular,"sandbox,sandbox,multiplayer",20.8,2.0,2769,48654,4,22,E,false
+W7488106,Neon Kingdom3520,MysticCreator9233,Puzzle,Popular,"singleplayer,casual,funny",19.4,2.6,1572,47920,16,43,E10+,false
+W7203393,Mystic Galaxy7273,HyperWizard3654,Education,Popular,"funny,immersive,immersive",100.1,2.5,3950,34896,8,28,E10+,false
+W4464706,Crystal Hub8177,HyperExplorer2482,Education,New,"retro,casual,immersive",16.0,2.3,2151,47329,100,50,E,true
+W3370402,Meta Realm2382,WildDragon1647,Adventure,New,"fantasy,story-driven,multiplayer",56.9,4.0,4504,38347,8,30,E,true
+W2080948,The Island9450,EpicMaster6924,Strategy,Popular,"minimalist,sandbox,sci-fi",16.2,2.8,332,38468,8,1,E10+,true
+W4793822,Dream Kingdom5433,EpicMaster5084,Sci-Fi,Classic,"fantasy,realistic,fitness",103.0,3.4,6123,11628,50,25,E10+,false
+W8808670,Meta Kingdom996,CoolWizard3998,Music & Dance,Featured,"art,social,multiplayer",74.3,1.7,1774,26306,16,24,E10+,false
+W6023982,The Island3190,DarkWizard4485,Adventure,Featured,"retro,music,social",6.5,1.0,2862,25196,4,31,T,false
+W7253439,Crystal Island9275,CyberMaster8389,Roleplay,New,"story-driven,multiplayer,multiplayer",1.2,3.0,1631,37768,100,28,E,true
+W9732353,Galactic Island877,WildNinja1459,Education,Featured,"minimalist,multiplayer,art",22.1,4.1,9189,27300,16,39,E,true
+W9743572,Mystic World2361,CyberWizard6520,Fantasy,Popular,"story-driven,competitive,multiplayer",76.5,3.4,4857,36265,16,25,E10+,false
+W3269680,Quantum Dungeon4123,ShadowExplorer6040,Roleplay,Featured,"meditation,fitness,social",2.2,1.8,488,33941,16,47,E10+,false
+W2529114,The Galaxy3259,WildPlayer2896,Music & Dance,Popular,"story-driven,singleplayer,story-driven",76.7,4.9,4937,37576,100,16,E,true
+W2489470,Quantum Realm8145,ShadowNinja3469,Sports & Fitness,Popular,"scary,creative,music",34.0,1.2,6538,34052,32,21,T,true
+W9731250,Crystal Island9314,WildGamer3033,Strategy,Classic,"retro,minimalist,funny",117.3,4.7,447,34635,100,33,E,true
+W9210167,Dream Dungeon4852,ShadowHero9928,Gaming,Classic,"fantasy,singleplayer,creative",47.4,4.1,9574,18820,50,49,M,true
+W3326312,The Hub4075,NeonExplorer5184,Adventure,Classic,"retro,art,music",34.6,3.6,9859,47607,100,32,T,true
+W1259909,Neon Island2238,EpicNinja2041,Gaming,New,"fitness,scary,funny",104.5,3.2,5835,28674,100,27,E,true
+W6654315,Quantum Arena7164,DarkMaster5756,Adventure,Classic,"story-driven,minimalist,minimalist",48.1,3.2,1955,41068,8,33,M,false
+W3224599,Virtual Oasis5184,HyperMaster9048,Gaming,Popular,"realistic,retro,competitive",22.8,4.2,5234,13329,8,47,E10+,false
+W7387103,Crystal Dungeon3840,WildGamer3033,Music & Dance,Popular,"sandbox,realistic,multiplayer",73.6,4.1,3100,16898,8,24,M,false
+W2991069,Meta Hub5464,ShadowWizard1190,Horror,Classic,"immersive,singleplayer,multiplayer",19.1,5.0,5724,2281,32,4,E10+,true
+W4217098,Quantum Hub1686,CoolHero127,Social,Featured,"multiplayer,story-driven,casual",56.5,3.9,7495,23811,16,7,E,true
+W3736767,Virtual Arena7210,NeonHero2054,Social,Popular,"sandbox,sci-fi,fantasy",103.3,4.7,3750,23353,32,39,E,true
+W9414821,Quantum Oasis8654,CoolWizard3998,Sports & Fitness,Popular,"story-driven,sandbox,fitness",26.0,2.5,3117,23599,100,24,T,false
+W5352514,The Oasis4050,HyperMaster9048,Relaxation,Popular,"meditation,fitness,immersive",71.9,2.5,7294,49719,4,22,E10+,false
+W1500074,Galactic Oasis7064,CoolHero8041,Social,Featured,"meditation,singleplayer,singleplayer",74.8,3.4,1078,28022,50,9,E,true
+W4676487,Crystal Realm1179,HyperHero8488,Simulation,New,"educational,meditation,multiplayer",21.2,3.9,3251,22080,32,33,T,false
+W1213858,Galactic Arena8763,ShadowNinja2823,Gaming,Classic,"immersive,social,music",22.1,3.0,7417,47086,50,35,E10+,false
+W3917945,Mystic Kingdom2429,NeonNinja6502,Music & Dance,New,"sci-fi,singleplayer,multiplayer",104.1,3.8,969,37952,32,8,E10+,false
+W2292466,Neon Galaxy9334,NeonHero8726,Sci-Fi,Popular,"music,story-driven,realistic",50.6,3.2,983,32194,16,12,E,true
+W1999985,Galactic Island1933,CyberGamer3491,Education,New,"sci-fi,singleplayer,multiplayer",75.2,2.9,4713,39504,100,27,T,false
+W6339463,Galactic Galaxy664,CyberWizard6520,Horror,New,"scary,story-driven,music",69.4,1.7,4340,33546,8,22,E10+,false
+W3360810,The Dungeon1128,CyberNinja3095,Sci-Fi,Featured,"fantasy,singleplayer,casual",106.2,3.4,7708,12685,4,7,T,false
+W8003951,The Dungeon4447,WildMaster7894,Comedy,New,"casual,story-driven,educational",77.4,4.3,3266,13311,4,36,T,false
+W5101331,Virtual Kingdom7519,NeonDragon849,Education,Classic,"scary,realistic,scary",19.5,3.7,2072,15195,32,8,E,false
+W7609033,Dream Island4813,WildNinja1459,Puzzle,New,"music,social,educational",33.6,3.6,5311,35236,4,40,M,false
+W6944980,Galactic Hub1974,CyberGamer9930,Puzzle,Featured,"sandbox,art,sandbox",99.0,2.1,5641,640,4,11,E,false
+W8942557,Quantum World7991,MysticMaster8057,Horror,New,"sandbox,sci-fi,creative",31.1,4.1,9614,9611,4,6,E10+,true
+W5510123,Quantum Galaxy2284,HyperMaster9809,Music & Dance,Featured,"immersive,retro,minimalist",64.6,2.6,361,39899,100,10,E10+,false
+W9161839,Crystal Realm8945,WildPlayer2896,Social,Classic,"meditation,sci-fi,realistic",52.8,5.0,9706,34776,32,31,E10+,true
+W8801665,Crystal Island8273,WildGamer3033,Sci-Fi,Featured,"story-driven,sandbox,minimalist",110.6,3.2,2335,4881,16,19,E,false
+W9006336,Quantum Oasis7307,ShadowNinja2823,Education,Popular,"competitive,singleplayer,story-driven",56.3,2.8,1476,7017,8,14,T,false
+W5896189,Neon Galaxy4106,CoolHero8041,Strategy,Featured,"creative,competitive,retro",34.1,3.6,9316,31106,4,27,M,false
+W2542115,Galactic Realm7225,WildNinja7048,Simulation,New,"creative,music,sandbox",108.0,3.6,2299,10306,32,15,E10+,true
+W4302254,Virtual Realm9610,NeonNinja6502,Education,Classic,"story-driven,sandbox,music",97.0,3.8,6020,36241,100,30,E10+,false
+W2355186,Dream Arena1092,CyberNinja7074,Gaming,Classic,"singleplayer,fantasy,scary",117.7,2.4,3765,2604,4,42,E,false
+W6134733,Meta Galaxy8368,CyberGamer3491,Social,Classic,"immersive,art,multiplayer",10.4,4.6,2425,10421,50,40,T,true
+W6739906,Meta Hub1952,ShadowHero9928,Social,Featured,"sandbox,meditation,multiplayer",118.9,4.4,1054,49354,50,8,E,false
+W5879775,Dream Arena9835,CyberWizard3617,Horror,Classic,"retro,funny,multiplayer",57.1,2.5,7110,16133,16,50,E,false
+W2491929,Meta Island6377,WildHero2877,Education,New,"creative,art,sandbox",64.8,3.3,2113,20149,32,29,M,false
+W9358832,Dream Galaxy2136,CyberWizard3617,Comedy,Classic,"multiplayer,story-driven,multiplayer",70.8,5.0,5072,25328,100,33,E,true
+W6285826,Meta Galaxy5600,CoolWizard3998,Sci-Fi,Popular,"casual,meditation,scary",106.0,1.6,2205,13424,32,6,E10+,false
+W2485771,Crystal Oasis9574,EpicMaster5084,Comedy,Popular,"meditation,funny,social",31.2,4.9,9076,16784,4,35,E10+,false
+W3395627,Dream Dungeon8273,CyberGamer51,Comedy,Featured,"educational,realistic,sci-fi",91.4,1.4,8388,7258,100,4,M,false
+W8421391,Quantum Kingdom8208,WildMaster7894,Sports & Fitness,Classic,"meditation,singleplayer,competitive",35.7,2.2,1730,10861,8,26,E10+,true
+W5215917,Quantum Galaxy2984,WildNinja1459,Simulation,Popular,"multiplayer,multiplayer,music",101.4,2.2,8574,49468,4,12,E,true
+W1239868,Dream Realm5532,DarkMaster5756,Social,Featured,"competitive,educational,multiplayer",71.6,1.4,8758,2682,32,44,M,true
+W6735703,Meta Kingdom3746,DarkMaster5756,Education,New,"sandbox,retro,social",55.5,2.8,7492,22907,4,13,E,false
+W8698685,The Realm1805,MysticMaster8057,Roleplay,Featured,"fantasy,educational,sandbox",38.3,2.8,3923,43076,16,13,E10+,false
+W3390699,Galactic Arena5060,HyperMaster9048,Music & Dance,Featured,"sandbox,realistic,fantasy",7.0,1.0,643,6501,8,17,E,false
+W4965090,Mystic Island3949,NeonPlayer8259,Roleplay,Popular,"realistic,fantasy,art",92.2,4.7,2339,11416,4,26,E10+,true
+W2881948,Quantum World1196,WildPlayer2896,Sci-Fi,Featured,"meditation,educational,retro",47.7,4.1,9747,38336,16,7,T,false
+W1814256,Virtual Galaxy8937,NeonHero2054,Strategy,Popular,"realistic,meditation,competitive",1.8,2.8,6829,36416,50,29,E,true
+W5121875,Virtual Hub440,ShadowExplorer6040,Fantasy,Popular,"multiplayer,casual,multiplayer",58.7,1.4,9432,34313,8,34,T,true
+W2093960,Meta Oasis9700,WildMaster2575,Music & Dance,Popular,"multiplayer,minimalist,multiplayer",78.2,2.6,1720,10916,100,6,E,false
+W3369586,Meta Arena8532,HyperHero2663,Roleplay,New,"competitive,creative,multiplayer",92.1,1.2,9796,19884,100,22,M,false
+W2054949,The Arena5284,DarkMaster5756,Social,Popular,"sandbox,educational,art",18.3,4.7,2318,29784,8,17,T,false
+W2842061,Dream Arena5820,ShadowHero9522,Horror,Popular,"creative,realistic,casual",87.8,4.6,21,5384,32,12,E,false
+W1130291,Meta Dungeon1238,ShadowNinja3469,Simulation,Classic,"funny,scary,music",102.6,4.4,6463,31424,8,0,E,false
+W9713489,Crystal Kingdom1705,CyberGamer51,Music & Dance,Featured,"social,competitive,art",49.3,3.2,9888,33693,8,0,E,true
+W7357578,Dream Arena5750,MysticExplorer8623,Puzzle,New,"sci-fi,minimalist,competitive",64.6,4.4,5781,45277,16,19,E,false
+W7076146,The Kingdom8939,ShadowWizard1190,Adventure,Classic,"competitive,casual,casual",58.2,3.1,7628,24116,4,36,M,false
+W5127222,Dream Oasis6954,HyperHero2663,Relaxation,Popular,"fitness,singleplayer,multiplayer",71.3,3.7,9079,1300,100,50,E10+,true
+W4365278,Dream Hub8567,HyperExplorer4552,Adventure,Featured,"creative,sandbox,funny",102.4,4.8,1464,2214,100,46,M,true
+W7514987,Meta Hub630,ShadowNinja2823,Social,Classic,"fantasy,retro,creative",112.6,4.8,788,47825,50,29,E10+,true
+W1708288,The Galaxy4234,ShadowHero2705,Roleplay,Classic,"scary,sci-fi,multiplayer",5.7,4.3,4400,17374,16,25,E,false
+W7712444,Quantum Hub5397,EpicNinja2041,Fantasy,Classic,"social,competitive,realistic",103.7,2.6,419,21597,50,40,E,false
+W9752910,Virtual Oasis7189,NeonDragon849,Education,Featured,"creative,multiplayer,multiplayer",8.3,3.8,1627,21904,32,11,E10+,false
+W8299121,Galactic Galaxy9149,HyperExplorer2482,Comedy,Popular,"realistic,funny,singleplayer",111.1,1.0,6528,18827,4,25,E,false
+W7577494,Dream Island280,WildPlayer2896,Roleplay,Classic,"educational,singleplayer,fitness",60.7,2.1,9048,35851,32,28,E10+,true
+W4131581,Dream Oasis1539,CoolHero127,Education,Popular,"sandbox,meditation,multiplayer",96.5,3.9,6669,6724,8,47,E10+,false
+W9080983,Mystic Kingdom626,ShadowHero2705,Puzzle,Featured,"music,minimalist,art",28.2,2.4,9915,11392,100,17,T,false
+W3965717,Quantum Realm4880,WildNinja7048,Gaming,Popular,"story-driven,sandbox,music",86.4,4.0,9089,30899,32,17,E,false
+W2201546,Virtual Dungeon7509,CyberGamer3491,Adventure,Featured,"fitness,competitive,funny",14.9,2.8,3091,1339,100,43,M,false
+W6104453,Virtual Kingdom8427,NeonNinja9214,Art & Creative,Featured,"music,retro,sandbox",2.9,4.2,3904,33690,4,3,E10+,false
+W6278561,Mystic Hub6149,HyperHero8488,Education,New,"competitive,art,competitive",93.8,4.0,8539,9199,8,16,E10+,false
+W2447286,Mystic Kingdom1390,CoolDragon5037,Adventure,Classic,"singleplayer,fitness,funny",82.2,5.0,2973,7215,16,32,M,true
+W4890509,Meta Island5325,DarkMaster5756,Relaxation,Classic,"fantasy,casual,sandbox",86.9,4.5,6975,42865,8,10,E10+,false
+W9984079,Mystic Kingdom4085,WildNinja7048,Gaming,Popular,"funny,retro,multiplayer",63.2,3.4,9280,27,8,23,M,false
+W4840093,Crystal Realm5597,CyberGamer51,Music & Dance,Popular,"art,realistic,fantasy",65.0,4.2,7674,11008,4,30,T,false
+W5421071,Neon Island9386,CoolWizard3998,Education,Classic,"creative,funny,immersive",23.4,2.0,257,47050,4,48,M,false
+W9283461,Meta Realm9056,EpicDragon1067,Strategy,Classic,"art,funny,fantasy",117.1,2.4,7266,31698,8,1,E10+,false
+W1822367,Crystal World3021,ShadowWizard469,Music & Dance,Classic,"sandbox,immersive,competitive",103.8,2.4,8657,42076,8,2,E10+,true
+W6665133,Neon Arena2942,CyberNinja7074,Gaming,Featured,"singleplayer,fantasy,immersive",96.2,3.1,2481,4645,32,18,E,true
+W1548087,Dream Oasis6444,MysticExplorer8623,Puzzle,Featured,"fantasy,competitive,fantasy",24.5,4.6,391,33872,8,13,E,false
+W1079943,Quantum Arena5321,HyperExplorer4552,Puzzle,Featured,"singleplayer,competitive,competitive",13.0,1.4,332,7253,32,4,E10+,true
+W8795882,Neon Arena1924,WildDragon1647,Sports & Fitness,Popular,"immersive,creative,social",23.6,3.8,5246,36104,8,49,E,true
+W7874269,The Realm3302,WildHero2877,Gaming,New,"multiplayer,art,music",22.1,4.0,4235,4993,50,50,E10+,false
+W9640785,Meta Hub261,HyperMaster9048,Roleplay,Classic,"competitive,sci-fi,realistic",116.7,3.4,8403,32849,32,13,E,true
+W7412738,Crystal Arena1503,NeonPlayer8259,Education,Popular,"immersive,realistic,story-driven",114.6,3.1,7153,40106,100,10,T,false
+W3332036,Neon Hub5708,HyperMaster9809,Social,Classic,"sandbox,sci-fi,competitive",102.9,2.3,3950,26383,50,32,E,true
+W9960573,The Realm3160,NeonExplorer5184,Social,Popular,"fantasy,social,funny",22.9,2.5,9372,22612,32,21,E10+,false
+W6061529,Mystic Hub7779,DarkMaster5756,Gaming,New,"art,educational,minimalist",13.0,4.2,2501,46496,100,34,E,false
+W7575452,Mystic Realm3589,NeonHero2054,Social,Classic,"social,competitive,sandbox",20.6,1.4,9662,32423,50,6,E,false
+W3326455,Crystal Kingdom5866,CoolHero127,Horror,New,"creative,multiplayer,singleplayer",104.7,2.1,1084,8411,8,40,E10+,false
+W9782602,Neon World3031,WildHero2877,Puzzle,New,"creative,singleplayer,scary",48.4,1.4,3467,7618,100,7,E10+,false
+W8714865,Crystal World2820,HyperNinja2159,Strategy,Featured,"fantasy,sandbox,educational",5.2,2.1,7736,48696,50,26,E10+,true
+W9639378,Meta World8159,HyperWizard3352,Relaxation,Classic,"scary,retro,sci-fi",107.7,1.1,452,35433,8,21,T,true
+W4923857,Neon Arena4587,MysticMaster8057,Social,Popular,"creative,fitness,fantasy",22.4,2.1,7187,24634,32,15,M,true
+W4430135,Dream Realm3902,HyperWizard3654,Strategy,Popular,"fitness,competitive,singleplayer",37.5,3.3,1586,29942,16,23,M,false
+W2272821,Neon Galaxy5742,NeonHero2054,Social,Featured,"realistic,scary,funny",85.3,3.5,7140,39454,32,5,M,false
+W3416967,Galactic Oasis4039,CoolHero127,Roleplay,Featured,"singleplayer,fitness,realistic",90.3,3.3,1882,29283,32,9,M,false
+W7128517,Quantum Hub8011,HyperMaster9048,Art & Creative,Popular,"casual,music,story-driven",118.4,2.7,5194,42969,16,49,E,false
+W2977089,Galactic Galaxy3753,NeonDragon849,Fantasy,Popular,"sandbox,competitive,sci-fi",112.2,3.3,8961,32119,32,21,E10+,false
+W7683793,Meta Oasis1588,ShadowWizard469,Art & Creative,New,"casual,music,casual",90.0,2.7,8098,7185,100,4,E10+,false
+W5070701,Virtual Hub9108,MysticMaster8057,Adventure,Classic,"immersive,immersive,story-driven",63.9,1.9,4732,47498,4,24,T,false
+W2328739,Neon Dungeon9918,NeonDragon849,Comedy,New,"meditation,immersive,educational",102.0,4.5,9041,9784,32,47,T,false
+W5368673,Galactic Galaxy8759,CoolHero127,Simulation,New,"retro,sandbox,social",40.0,2.9,1609,21483,50,39,M,true
+W9925296,Meta Galaxy1818,HyperWizard3352,Strategy,Classic,"sci-fi,realistic,story-driven",91.8,2.4,9803,41472,100,35,E10+,false
+W6302864,Quantum Hub5056,HyperHero8488,Relaxation,New,"realistic,story-driven,social",105.9,2.2,1792,42704,8,28,E10+,true
+W2914442,Dream Galaxy2695,CyberGamer3491,Music & Dance,New,"creative,retro,singleplayer",117.5,2.3,8259,45409,8,7,M,false
+W7867650,Mystic Kingdom9239,CyberGamer3491,Gaming,Featured,"creative,multiplayer,realistic",90.5,3.5,7837,32892,4,22,T,false
+W1282952,The Oasis7836,WildDragon1647,Gaming,Popular,"multiplayer,fitness,social",52.9,3.3,4529,14717,8,8,E10+,false
+W1605574,Neon Dungeon8975,WildNinja7048,Fantasy,New,"immersive,singleplayer,meditation",56.3,1.5,8742,41540,100,44,M,true
+W1514745,Crystal Dungeon3532,ShadowHero9522,Comedy,Featured,"sandbox,educational,retro",80.2,2.1,9329,39705,16,29,E10+,false
+W3986553,Meta Galaxy5720,HyperWizard3654,Strategy,New,"multiplayer,retro,competitive",1.1,4.7,8805,45749,16,9,M,false
+W7289778,Meta World1321,DarkMaster5756,Art & Creative,Classic,"story-driven,story-driven,realistic",97.0,2.9,5158,46224,32,45,E,false
+W4447312,Quantum Island2290,WildDragon1647,Social,Featured,"singleplayer,minimalist,meditation",36.5,3.6,3208,9299,32,48,T,false
+W9323757,Crystal Realm6509,EpicDragon1067,Sports & Fitness,Popular,"fantasy,casual,competitive",74.5,2.3,4634,5781,8,28,E,false
+W1609279,Meta Galaxy6517,WildMaster7894,Comedy,Popular,"educational,meditation,story-driven",43.4,4.1,2338,33174,16,24,M,false
+W9100269,Neon Dungeon1194,EpicNinja2041,Gaming,Popular,"singleplayer,music,retro",52.4,2.8,9208,18180,100,4,E10+,false
+W6824285,Mystic Oasis7733,CoolHero127,Gaming,New,"retro,funny,singleplayer",68.4,4.8,9757,12574,32,4,T,false
+W6287976,Meta Realm1755,ShadowHero9928,Horror,New,"immersive,sandbox,sandbox",98.0,4.5,5555,9900,16,14,E,true
+W9716968,Mystic Island5574,NeonNinja9214,Sports & Fitness,Classic,"retro,singleplayer,meditation",119.7,1.4,9626,21127,16,5,E,false
+W1486762,Crystal World478,HyperExplorer2482,Sports & Fitness,Classic,"social,fantasy,competitive",24.7,4.9,3674,4956,32,48,M,false
+W8600576,Galactic World7011,CoolWizard4818,Simulation,New,"sandbox,multiplayer,sci-fi",21.1,5.0,675,13213,8,29,E10+,false
+W8093141,Quantum Dungeon8020,ShadowExplorer6040,Fantasy,Featured,"art,multiplayer,multiplayer",97.6,4.8,5420,13109,32,30,E,false
+W1308007,Quantum Galaxy2423,NeonNinja9214,Music & Dance,Classic,"story-driven,competitive,story-driven",70.9,1.8,5599,17869,50,5,T,true
+W2220773,Neon World6540,CoolDragon5037,Puzzle,Featured,"scary,art,competitive",72.5,3.2,5639,23128,16,38,E,true
+W5741957,Galactic Dungeon1831,WildPlayer2896,Art & Creative,Popular,"funny,social,educational",75.9,4.2,3455,42410,8,9,T,false
+W4255641,Dream Galaxy4185,WildDragon1647,Gaming,New,"retro,sci-fi,immersive",92.7,4.1,7064,613,4,26,E10+,false
+W7756164,Neon Kingdom3702,WildNinja1459,Sci-Fi,New,"multiplayer,retro,competitive",31.4,3.1,5607,41224,50,5,E,false
+W2137276,Quantum Arena840,HyperWizard3352,Art & Creative,New,"meditation,minimalist,multiplayer",62.2,2.1,9972,40566,100,18,T,true
+W5254560,Meta Kingdom8635,WildDragon1647,Roleplay,Classic,"multiplayer,retro,multiplayer",67.3,4.7,7452,13955,100,31,M,false
+W1172803,Galactic Galaxy505,WildNinja1459,Sci-Fi,Popular,"retro,music,competitive",49.0,3.1,320,43775,4,25,T,false
+W3585784,Dream Galaxy3421,CyberMaster8389,Social,Popular,"sci-fi,story-driven,music",116.1,5.0,8496,25306,32,30,M,false
+W1692431,Galactic Arena5715,NeonPlayer8259,Social,New,"competitive,sandbox,singleplayer",112.7,1.1,6595,44080,8,12,M,true
+W7520675,Virtual Galaxy7825,CoolDragon6934,Social,Popular,"educational,multiplayer,social",92.2,1.5,2116,19969,50,48,E10+,true
+W3119023,Meta World5458,WildMaster2575,Social,New,"singleplayer,sandbox,story-driven",49.7,1.8,3307,46954,16,40,E,true
+W5505556,Neon Galaxy3171,HyperHero2663,Music & Dance,Featured,"fitness,scary,multiplayer",44.9,4.6,3298,48663,50,38,E10+,false
+W5433070,Neon Kingdom9625,ShadowHero2705,Sports & Fitness,Popular,"casual,multiplayer,sandbox",19.6,4.6,9805,42606,16,50,M,false
+W6444876,Dream Arena2178,HyperWizard3654,Adventure,Featured,"music,casual,social",66.6,1.4,3533,11863,100,7,E10+,true
+W2503489,Virtual Kingdom6966,HyperWizard3654,Simulation,Classic,"casual,competitive,social",85.1,1.8,9052,44844,4,16,E10+,false
+W8264821,Virtual Oasis6527,WildGamer3033,Horror,Featured,"sci-fi,fantasy,multiplayer",79.8,1.5,3281,25226,50,34,T,false
+W2549385,Quantum Oasis2467,CyberMaster8389,Sci-Fi,Featured,"multiplayer,minimalist,music",13.7,1.3,2113,49010,100,22,E,true
+W9041938,The Hub3072,CyberNinja3095,Relaxation,Classic,"multiplayer,fantasy,social",88.5,2.7,6002,38969,32,44,E,true
+W7097250,Neon Hub201,EpicDragon1067,Music & Dance,Classic,"fitness,multiplayer,singleplayer",88.6,4.6,8654,38936,50,30,E,false
+W4876301,Neon Island5130,HyperMaster9809,Puzzle,Popular,"social,competitive,competitive",25.5,4.6,3917,17773,100,38,M,false
+W9313851,Galactic Galaxy4683,MysticMaster8057,Comedy,Popular,"fantasy,casual,educational",57.4,1.0,968,27019,50,0,E,false
+W1611372,The Kingdom4398,CoolDragon6934,Education,Featured,"meditation,sandbox,multiplayer",114.6,3.7,8139,2790,100,7,E,false
+W1580839,Virtual Oasis818,CyberNinja3095,Horror,Classic,"meditation,singleplayer,art",81.4,1.3,8746,20293,16,12,E,true
+W3458968,Neon Hub7810,CyberNinja3095,Social,Featured,"singleplayer,singleplayer,fantasy",65.9,3.1,9558,5761,50,21,E,false
+W5138737,Galactic World7922,WildHero2877,Gaming,Popular,"immersive,casual,social",80.3,3.0,6117,10652,100,16,E,false
+W2411941,Virtual Realm6575,CoolMaster2736,Social,Classic,"educational,multiplayer,fantasy",67.0,4.3,6195,26736,8,22,M,false
+W2501519,Virtual Kingdom9898,CyberGamer51,Strategy,Popular,"scary,art,retro",61.1,4.9,1495,44510,16,50,T,true
+W6410556,Galactic World5905,EpicDragon1067,Education,Featured,"retro,story-driven,music",29.3,4.5,5198,47813,8,14,E,false
+W7552030,Neon Arena5941,ShadowExplorer6040,Adventure,Featured,"story-driven,sandbox,retro",51.1,4.4,2853,45756,32,13,E,false
+W7687380,Neon Dungeon1788,CyberWizard3617,Relaxation,Featured,"music,minimalist,multiplayer",38.1,1.2,8641,38892,100,32,E,false
